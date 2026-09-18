@@ -7,10 +7,14 @@
 - Visual continuity: Distinguished elderly South Indian man, silver hair, expressive eyes, elegant posture, premium traditional/modern Tamil elite clothing.
 
 ## Meera
-- Role: Trusted caregiver/confidante of Nagarajan.
+- Role: Freelancing nurse and trusted caregiver/confidante of Nagarajan.
 - Story function: Emotionally central witness/caregiver whose knowledge and actions must be carefully tracked.
-- Performance: Naturalistic, restrained, vulnerable when alone but composed under pressure.
-- Visual continuity: Lock age, face, hairstyle, costume state and accessories once finalized.
+- Professional status: Independent/freelancing nurse; she is not a resident family member or member of Nagarajan's household by birth.
+- Performance: Naturalistic, restrained, professional, observant; vulnerable when alone but composed under pressure.
+- Visual continuity: South Indian woman with a consistently neat, professional appearance. Hair must ALWAYS be tied back in a practical bun or similarly secure tied style; never loose/open hair unless explicitly approved by the story.
+- Wardrobe: Semi-formal professional attire suitable for a freelance nurse working as a private caregiver in an affluent home. Prefer neat, modest kurta/salwar or similarly semi-formal Indian workwear with comfortable professional footwear. Clothing should look polished and practical, not overly casual and not like a resident family member's luxury fashion.
+- Accessories: No employee/company ID card, lanyard or institutional badge. She is a freelance nurse, not a hospital employee. Keep accessories minimal and practical.
+- Visual distinction: Her clothing and styling should subtly communicate that she works in the house professionally but does not belong to the family socially.
 
 ## Aditya Karikalan
 - Role: Principal investigator/deduction-driven protagonist.
@@ -54,6 +58,9 @@
 
 ## Character continuity rule
 No AI generation may silently change a character's face, age, hairstyle, body proportions, skin appearance, costume state or established accessories. Changes require explicit story/costume approval.
+
+## Meera-specific continuity rule
+Meera is ALWAYS a freelance nurse/caregiver. She must always have tied-back hair and a neat semi-formal professional appearance. She must NOT wear an ID card, hospital lanyard, employee badge or institutional uniform unless explicitly approved in a future scene. She must never be styled as a member of Nagarajan's family.
 
 ## Speech rule
 All Tamil dialogue should be natural contemporary spoken Tamil appropriate to each character's age, class, profession and relationship. Avoid generic translated-English dialogue.
