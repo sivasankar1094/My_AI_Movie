@@ -2,20 +2,31 @@
 
 ## Current status
 - Visual reference: APPROVED / LOCKED
-- User review decision: "looks good"
-- Approval state: FINAL VISUAL REFERENCE
+- User visual review decision: "looks good"
+- Visual approval state: FINAL / LOCKED
+- Production package: CREATED
+- Complete package lock: PENDING USER APPROVAL
 - MP4/video render: NOT RENDERED
-- Binary reference image in GitHub: NOT UPLOADED (current GitHub connector supports UTF-8 text writes, not local binary image uploads)
+- Binary reference image in GitHub: NOT UPLOADED through the current connector
 
-## Continuity requirement
-The approved Scene 04 reference must be used as the visual continuity anchor for subsequent scene generation. Do not silently replace or regenerate the approved look.
+## Files now present
+- `screenplay.md`
+- `shot_division.md`
+- `video_prompts.md`
+- `voice_sound_music.md`
+- `qc.md`
+- `reference_images.md`
 
-## Known project-wide visual continuity
-- Nagarajan Estate: Tamil Nadu-inspired grand luxury estate.
-- Lighting direction: bright natural morning daylight where applicable to the established timeline.
-- Overall genre: investigation thriller.
-- Visual language: grounded, cinematic, photorealistic Tamil-cinema treatment.
-- Character identities, faces, hairstyles, wardrobe state and props must remain consistent unless explicitly changed and approved.
+## Continuity anchor
+The approved Scene 04 reference is the visual continuity anchor. Do not silently replace or regenerate the approved look.
 
-## Important repository note
-The currently connected GitHub repository does not contain the previously referenced Scene 04 screenplay/shot/prompt files, so this file records the verified approval state without inventing missing scene content. The exact approved Scene 04 production details should be restored from the previously generated project material before they are represented as final screenplay/shot/audio assets.
+## Project continuity
+- Nagarajan Estate: Tamil Nadu-inspired, grand but believable luxury estate.
+- Lighting: bright natural morning daylight where applicable.
+- Genre: investigation thriller.
+- Visual language: grounded, cinematic, photorealistic Tamil cinema.
+- Meera: freelance nurse/caregiver; hair always tied; semi-formal professional attire; no ID card or institutional uniform.
+- Character faces, hairstyles, costumes, room geometry and mystery-critical props must remain stable.
+
+## Important distinction
+The user has approved the Scene 04 visual reference. The screenplay, shot division, video prompts and audio plan in this folder are the production package created to continue from the verified Scene 03 endpoint. They should not be treated as fully story-locked until the user explicitly approves the complete Scene 04 package.
