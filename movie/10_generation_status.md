@@ -5,15 +5,19 @@
 - Individual scene package paths: **CREATED for Scenes 03–80**
 - Scene 01 visual reference: **APPROVED / LOCKED**
 - Scene 02: **READY FOR REVIEW; not locked**
-- Scene 03: **READY FOR REVIEW; not locked**
+- Scene 03 visual storyboard: **APPROVED / LOCKED**
+- Scene 03 screenplay/shot package: **NOT YET LOCKED; requires alignment with approved visual storyboard before final scene lock**
 - Actual MP4 rendering: **NOT AVAILABLE in current ChatGPT toolset**
 
 | Scene | Story | Screenplay | Shots | Keyframes | Video | Voice | Sound | Music | Edit | QC | User Approval |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 01 | Ready | Ready | Ready | Approved reference | Not rendered | Pending | Pending | Pending | Pending | Pending | Visual approved; final scene not yet locked |
 | 02 | Ready | Ready | Ready | Reference/prompt stage | Not rendered | Pending | Pending | Pending | Pending | Pending | Awaiting user approval |
-| 03 | Ready | Ready | Ready | Prompt/reference stage | Not rendered | Ready | Ready | Ready | Pending | Ready | Awaiting user approval |
+| 03 | Ready | Ready | Ready | **Approved storyboard** | Not rendered | Ready | Ready | Ready | Pending | Ready | **Visual approved; package not locked** |
 | 04–80 | Ready | Pending | Pending | Pending | Not rendered | Pending | Pending | Pending | Pending | Pending | Not started |
+
+## Scene 03 approval note
+The user approved the generated Scene 03 visual storyboard. The storyboard depicts Arjun's covert visit to Nagarajan Estate at night, including arrival, the estate dogs, trellis entry, hidden passage, disguise, near discovery, escape and an unexpected witness. Existing Scene 03 screenplay/shot files in the repository describe a different morning sequence involving Meera. These two representations must not be silently reconciled; the scene should be aligned explicitly before final lock.
 
 ## Command behavior
 `Generate Scene XX` = load the Movie Bible, Character Bible, Location Bible, Costume Bible, Prop Bible, Timeline, Clue Database and locked prior scenes; then produce the complete available pipeline for that scene and present it for review. User approval is required before the scene becomes LOCKED.
